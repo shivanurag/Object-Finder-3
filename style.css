@@ -1,0 +1,51 @@
+body
+{
+background-size:cover;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.heading
+{
+    width:100%;
+    background-color:sienna;
+}
+
+#status
+{
+    background-color: sienna;
+    width:100px;
+    border-radius:20px;
+}
+
+.object
+{
+    width:200px;
+    background-color:sienna;
+    border-radius:20px;
+}
+
+.object_button
+{
+    width:70px;
+    background-color:sienna;
+    border-radius:20px;
+}
+
+#name
+{
+    color:ghostwhite
+}
+
+.heading
+{
+    margin-top:0px;
+}
+
+canvas
+{
+  border:5px solid sienna;
+  border-radius:20px;
+  box-shadow:10px 10px 10px rgb(100, 100, 100);
+  margin-top:60px;
+}
+
